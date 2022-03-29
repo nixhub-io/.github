@@ -1,6 +1,6 @@
 # Code of Conduct
 
-### Summary** (TL;DR)
+### Summary (TL;DR)
 
 - Treat everyone with respect and kindness.
 - Be thoughtful in how you communicate.
@@ -136,7 +136,6 @@ disagree.
   constructive feedback. Any discussions about #feedback have to go in #meta.
 
 ### Summary (TL;DR)
-
 
 - Treat everyone with respect and kindness.
 - Be thoughtful in how you communicate.

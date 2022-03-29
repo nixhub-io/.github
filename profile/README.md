@@ -22,7 +22,7 @@ The official Matrix space link is
 Similarly, members of this Matrix space can obtain the invite link anytime
 there.
 
-The server's rules are written in the [Code of Conduct](../CODE_OF_CONDUCT.md).
+The server's rules are written in the [Code of Conduct](https://github.com/nixhub-io/.github/blob/main/CODE_OF_CONDUCT.md).
 There is a Summary section, and while you shouldn't have to read the Code of
 Conduct if you're friendly, we take the Code of Conduct seriously when things
 are escalated and assume that every member has already (at least briefly) read
